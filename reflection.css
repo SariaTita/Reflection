@@ -1,0 +1,21 @@
+:root {
+  --background-color: #333;
+}
+/* * {
+  background-color: var(--background-color);
+} */
+ul {
+  list-style-type: none;
+  margin: 0em;
+  padding: 0em;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.nav {
+  background-color: rgba(251, 253, 255, 0.904);
+}
+li {
+  display: inline;
+  text-decoration: none;
+}
